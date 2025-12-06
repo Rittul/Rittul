@@ -54,14 +54,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rittul&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rittul&theme=radical&hide_border=true)
+<!-- Using GitHub Profile Summary Cards (Most Reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rittul&theme=radical" alt="GitHub Profile Summary" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rittul&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rittul&theme=radical" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rittul&theme=radical" alt="Most Commit Language" />
+
+<!-- GitHub Streak (Alternative Service) -->
+<img src="https://streak-stats.demolab.com/?user=Rittul&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
