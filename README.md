@@ -62,7 +62,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rittul&theme=radical" alt="Most Commit Language" />
 
 <!-- GitHub Streak (Alternative Service) -->
-<img src="https://streak-stats.demolab.com/?username=Rittul&theme=radical&hide_border=true" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?username=Rittul&theme=radical&hide_border=true)
+
 
 </div>
 
